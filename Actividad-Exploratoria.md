@@ -59,11 +59,18 @@ Aunque anteriormente se describieron los conceptos involucrados y de manera gene
 
 3.	Que el personal tenga acceso al producto es fundamental, ya que estos dependiendo de su rol pueden modificar cierta información. Por ejemplo, los veterinarios requieren acceder para almacenar los soportes resultantes de una cita. Otro ejemplo sería el caso de un recepcionista, el cual para agendar las citas necesita tener acceso a la agenda. De esta manera los procesos internos de la clínica se hacen mucho más fluidos.
 
+## Herramientas existentes
+### Vetesoft
+Vetesoft es una plataforma de gestión veterinaria que funciona en la nube y está orientada a clínicas, consultorios y hospitales veterinarios. En su página presenta módulos relacionados con pacientes, historias clínicas, citas, vacunación, hospitalización, inventario, facturación, reportes, laboratorio e imágenes.
+### OKVet
+OKVet es una herramienta colombiana para la gestión de clínicas veterinarias. La plataforma ofrece funciones para propietarios, mascotas, historias clínicas, agenda, veterinarios, recordatorios, hospitalización, procedimientos, inventario, ventas, facturación e informes. Además, integra una inteligencia artificial integrada llamada MIAUV IA muy útil para hacer análisis clínico contextual, apoyar en la interpretación diagnóstica y la generación de informes inteligentes.
+### Comparación de las dos herramientas
+En general garantizan funciones similares para la gestión de clínicas veterinarias, las diferencias principales se encuentran mayoritariamente en las interfaces y costos. 
+OKVet tiene la ventaja en cuanto a su modalidad gratuita y liderazgo en Colombia y LATAM. Por otro lado, VeteSoft integra IA, además de resaltar la seguridad de los datos.
+En cuanto a la información relacionada a la base de datos sería poco objetivo suponer el modelo utilizado por ambas. Sin embargo, estas herramientas son de gran ayuda para identificar que suelen requerir los sistemas de este tipo de organizaciones. 
 
 ## Referencias 
-- Clasificación de servicios veterinarios https://es.scribd.com/document/735572103/Portafolio-de-servicios 
-- Plan de vacunación 
- https://www.agrocampo.com.co/plan-de-vacunacion 
-- Plan de desparasitación https://www.esccap.org/uploads/docs/ujeh3hhl_1272_ESCCAP_GL1_ES__Standalone_worming_flow_charts_v1_dogs.pdf 
-- Lista de servicios veterinarios
-https://www.anicura.es/tratamientos/mascotas/ 
+- Clasificación de servicios veterinarios https://es.scribd.com/document/735572103/Portafolio-de-servicios
+- OKVet. Software para veterinarias. https://okvet.co/ 
+- Vetesoft. Software veterinario en la nube. https://vetesoft.org/ 
+
