@@ -34,6 +34,8 @@ Para Catalogo la subentidad Inventario se renombró por producto y el atributo c
 Con servicios también se hizo lo mismo, a pesar de que en el diagrama E-R no se estableció como tal una especialización.
 Adicionalmente se creó una nueva entidad (tabla) llamada cita que se relaciona con servicio. Cita se relaciona con Mascota y Cliente y Cita mediante ClienteCita
 
+# Normalización 
+
 ## Forma Normal 1 
 1.	Debido a que Historial (2) tiene un atributo multivaluado, se procede a crear una nueva tabla Soporte
 2.	La tabla InventarioProveedor (Suministro) al contar con dos atributos multivaluados como cantidadProducto y PrecioVentaProducto exigía una nueva tabla que en este caso se definió como Detalle_Suministro.
