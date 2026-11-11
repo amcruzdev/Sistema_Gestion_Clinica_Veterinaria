@@ -44,7 +44,7 @@ Adicionalmente se creó una nueva entidad (tabla) llamada cita que se relaciona 
 
 ## Forma Normal 2
 1.	Dada la agregación definida en E-R para Mascota y Cliente se hizo necesario eliminar esta y definir por separado las tablas Mascota y Cliente para asegurar que cada uno de los atributos no clave dependieran solo del atributo principal.
-Forma Normal 3
+## Forma Normal 3
 1.	Se observó que el atributo tipo de Operador no dependía del id_empleado directamente, sino que dependía del cargo por esa razón se creo una nueva entidad llamada Cargo que se relacionara con operador. Evidentemente fue necesario crear un id para cargo
 
 ## Nota final 
